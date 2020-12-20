@@ -11,5 +11,8 @@
     "analyzer"
   ],
   "author": "naderdl",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "natural": "^2.1.5"
+  }
 }
