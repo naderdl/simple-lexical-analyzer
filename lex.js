@@ -40,11 +40,13 @@ let keywords = [
 
 let identifiers = /[a-zA-Z_]+[a-zA-Z0-9_]+/g;
 
-let operators = /(\++)|(-)|(=)|(\*)|(\/)|(%)|(--)|(<)|(>)|(!)|(<= | =<)|(>= | =>)/g;
+let operators = /(\+){1,2}|(-){1,2}|(=)|(\/)|(%)|(<)|(>)|(!)|(&)|(\|)/g;
 
 let numerals = /^(\d+)$/g;
 
-let specialChars = /(\[)|(\])(!)|(@)|(#)(\$)|(%)(\^)|(&)|(\()|(\))|(,)|(\.)|(\?)|(")|(')|({)|(})/g;
+let specialChars = /[$()_~`{}\[\]:;?,]/g;
+
+fs.writeFileSync('./tokes.json',fileTokens.toString());
 
 fileTokens.forEach((token) => {
     if (keywords.includes(token)) {
@@ -59,6 +61,6 @@ fileTokens.forEach((token) => {
         console.log(token, "SpecialChar");
     }
     else {
-      console.log('token',token)
+      console.log('token',token.toString())
     };
 });

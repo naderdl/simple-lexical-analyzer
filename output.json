@@ -1,0 +1,1928 @@
+[
+    {
+        "type": "keyword",
+        "value": "function",
+        "text": "function",
+        "offset": 0,
+        "lineBreaks": 0,
+        "line": 1,
+        "col": 1
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 8,
+        "lineBreaks": 0,
+        "line": 1,
+        "col": 9
+    },
+    {
+        "type": "identifiers",
+        "value": "bubbleSort",
+        "text": "bubbleSort",
+        "offset": 9,
+        "lineBreaks": 0,
+        "line": 1,
+        "col": 10
+    },
+    {
+        "type": "specialChars",
+        "value": "(",
+        "text": "(",
+        "offset": 19,
+        "lineBreaks": 0,
+        "line": 1,
+        "col": 20
+    },
+    {
+        "type": "identifiers",
+        "value": "inputArray",
+        "text": "inputArray",
+        "offset": 20,
+        "lineBreaks": 0,
+        "line": 1,
+        "col": 21
+    },
+    {
+        "type": "specialChars",
+        "value": ")",
+        "text": ")",
+        "offset": 30,
+        "lineBreaks": 0,
+        "line": 1,
+        "col": 31
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 31,
+        "lineBreaks": 0,
+        "line": 1,
+        "col": 32
+    },
+    {
+        "type": "specialChars",
+        "value": "{",
+        "text": "{",
+        "offset": 32,
+        "lineBreaks": 0,
+        "line": 1,
+        "col": 33
+    },
+    {
+        "type": "NL",
+        "value": "\n",
+        "text": "\n",
+        "offset": 33,
+        "lineBreaks": 1,
+        "line": 1,
+        "col": 34
+    },
+    {
+        "type": "WS",
+        "value": "    ",
+        "text": "    ",
+        "offset": 34,
+        "lineBreaks": 0,
+        "line": 2,
+        "col": 1
+    },
+    {
+        "type": "keyword",
+        "value": "let",
+        "text": "let",
+        "offset": 38,
+        "lineBreaks": 0,
+        "line": 2,
+        "col": 5
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 41,
+        "lineBreaks": 0,
+        "line": 2,
+        "col": 8
+    },
+    {
+        "type": "identifiers",
+        "value": "swap",
+        "text": "swap",
+        "offset": 42,
+        "lineBreaks": 0,
+        "line": 2,
+        "col": 9
+    },
+    {
+        "type": "specialChars",
+        "value": ";",
+        "text": ";",
+        "offset": 46,
+        "lineBreaks": 0,
+        "line": 2,
+        "col": 13
+    },
+    {
+        "type": "NL",
+        "value": "\n",
+        "text": "\n",
+        "offset": 47,
+        "lineBreaks": 1,
+        "line": 2,
+        "col": 14
+    },
+    {
+        "type": "WS",
+        "value": "    ",
+        "text": "    ",
+        "offset": 48,
+        "lineBreaks": 0,
+        "line": 3,
+        "col": 1
+    },
+    {
+        "type": "keyword",
+        "value": "let",
+        "text": "let",
+        "offset": 52,
+        "lineBreaks": 0,
+        "line": 3,
+        "col": 5
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 55,
+        "lineBreaks": 0,
+        "line": 3,
+        "col": 8
+    },
+    {
+        "type": "identifiers",
+        "value": "n",
+        "text": "n",
+        "offset": 56,
+        "lineBreaks": 0,
+        "line": 3,
+        "col": 9
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 57,
+        "lineBreaks": 0,
+        "line": 3,
+        "col": 10
+    },
+    {
+        "type": "operators",
+        "value": "=",
+        "text": "=",
+        "offset": 58,
+        "lineBreaks": 0,
+        "line": 3,
+        "col": 11
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 59,
+        "lineBreaks": 0,
+        "line": 3,
+        "col": 12
+    },
+    {
+        "type": "identifiers",
+        "value": "inputArray",
+        "text": "inputArray",
+        "offset": 60,
+        "lineBreaks": 0,
+        "line": 3,
+        "col": 13
+    },
+    {
+        "type": "specialChars",
+        "value": ".",
+        "text": ".",
+        "offset": 70,
+        "lineBreaks": 0,
+        "line": 3,
+        "col": 23
+    },
+    {
+        "type": "keyword",
+        "value": "length",
+        "text": "length",
+        "offset": 71,
+        "lineBreaks": 0,
+        "line": 3,
+        "col": 24
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 77,
+        "lineBreaks": 0,
+        "line": 3,
+        "col": 30
+    },
+    {
+        "type": "operators",
+        "value": "-",
+        "text": "-",
+        "offset": 78,
+        "lineBreaks": 0,
+        "line": 3,
+        "col": 31
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 79,
+        "lineBreaks": 0,
+        "line": 3,
+        "col": 32
+    },
+    {
+        "type": "number",
+        "value": "1",
+        "text": "1",
+        "offset": 80,
+        "lineBreaks": 0,
+        "line": 3,
+        "col": 33
+    },
+    {
+        "type": "specialChars",
+        "value": ";",
+        "text": ";",
+        "offset": 81,
+        "lineBreaks": 0,
+        "line": 3,
+        "col": 34
+    },
+    {
+        "type": "NL",
+        "value": "\n",
+        "text": "\n",
+        "offset": 82,
+        "lineBreaks": 1,
+        "line": 3,
+        "col": 35
+    },
+    {
+        "type": "WS",
+        "value": "    ",
+        "text": "    ",
+        "offset": 83,
+        "lineBreaks": 0,
+        "line": 4,
+        "col": 1
+    },
+    {
+        "type": "keyword",
+        "value": "let",
+        "text": "let",
+        "offset": 87,
+        "lineBreaks": 0,
+        "line": 4,
+        "col": 5
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 90,
+        "lineBreaks": 0,
+        "line": 4,
+        "col": 8
+    },
+    {
+        "type": "identifiers",
+        "value": "x",
+        "text": "x",
+        "offset": 91,
+        "lineBreaks": 0,
+        "line": 4,
+        "col": 9
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 92,
+        "lineBreaks": 0,
+        "line": 4,
+        "col": 10
+    },
+    {
+        "type": "operators",
+        "value": "=",
+        "text": "=",
+        "offset": 93,
+        "lineBreaks": 0,
+        "line": 4,
+        "col": 11
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 94,
+        "lineBreaks": 0,
+        "line": 4,
+        "col": 12
+    },
+    {
+        "type": "identifiers",
+        "value": "inputArray",
+        "text": "inputArray",
+        "offset": 95,
+        "lineBreaks": 0,
+        "line": 4,
+        "col": 13
+    },
+    {
+        "type": "specialChars",
+        "value": ";",
+        "text": ";",
+        "offset": 105,
+        "lineBreaks": 0,
+        "line": 4,
+        "col": 23
+    },
+    {
+        "type": "NL",
+        "value": "\n",
+        "text": "\n",
+        "offset": 106,
+        "lineBreaks": 1,
+        "line": 4,
+        "col": 24
+    },
+    {
+        "type": "WS",
+        "value": "    ",
+        "text": "    ",
+        "offset": 107,
+        "lineBreaks": 0,
+        "line": 5,
+        "col": 1
+    },
+    {
+        "type": "keyword",
+        "value": "do",
+        "text": "do",
+        "offset": 111,
+        "lineBreaks": 0,
+        "line": 5,
+        "col": 5
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 113,
+        "lineBreaks": 0,
+        "line": 5,
+        "col": 7
+    },
+    {
+        "type": "specialChars",
+        "value": "{",
+        "text": "{",
+        "offset": 114,
+        "lineBreaks": 0,
+        "line": 5,
+        "col": 8
+    },
+    {
+        "type": "NL",
+        "value": "\n",
+        "text": "\n",
+        "offset": 115,
+        "lineBreaks": 1,
+        "line": 5,
+        "col": 9
+    },
+    {
+        "type": "WS",
+        "value": "        ",
+        "text": "        ",
+        "offset": 116,
+        "lineBreaks": 0,
+        "line": 6,
+        "col": 1
+    },
+    {
+        "type": "identifiers",
+        "value": "swap",
+        "text": "swap",
+        "offset": 124,
+        "lineBreaks": 0,
+        "line": 6,
+        "col": 9
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 128,
+        "lineBreaks": 0,
+        "line": 6,
+        "col": 13
+    },
+    {
+        "type": "operators",
+        "value": "=",
+        "text": "=",
+        "offset": 129,
+        "lineBreaks": 0,
+        "line": 6,
+        "col": 14
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 130,
+        "lineBreaks": 0,
+        "line": 6,
+        "col": 15
+    },
+    {
+        "type": "keyword",
+        "value": "false",
+        "text": "false",
+        "offset": 131,
+        "lineBreaks": 0,
+        "line": 6,
+        "col": 16
+    },
+    {
+        "type": "specialChars",
+        "value": ";",
+        "text": ";",
+        "offset": 136,
+        "lineBreaks": 0,
+        "line": 6,
+        "col": 21
+    },
+    {
+        "type": "NL",
+        "value": "\n",
+        "text": "\n",
+        "offset": 137,
+        "lineBreaks": 1,
+        "line": 6,
+        "col": 22
+    },
+    {
+        "type": "WS",
+        "value": "        ",
+        "text": "        ",
+        "offset": 138,
+        "lineBreaks": 0,
+        "line": 7,
+        "col": 1
+    },
+    {
+        "type": "keyword",
+        "value": "for",
+        "text": "for",
+        "offset": 146,
+        "lineBreaks": 0,
+        "line": 7,
+        "col": 9
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 149,
+        "lineBreaks": 0,
+        "line": 7,
+        "col": 12
+    },
+    {
+        "type": "specialChars",
+        "value": "(",
+        "text": "(",
+        "offset": 150,
+        "lineBreaks": 0,
+        "line": 7,
+        "col": 13
+    },
+    {
+        "type": "keyword",
+        "value": "let",
+        "text": "let",
+        "offset": 151,
+        "lineBreaks": 0,
+        "line": 7,
+        "col": 14
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 154,
+        "lineBreaks": 0,
+        "line": 7,
+        "col": 17
+    },
+    {
+        "type": "identifiers",
+        "value": "i",
+        "text": "i",
+        "offset": 155,
+        "lineBreaks": 0,
+        "line": 7,
+        "col": 18
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 156,
+        "lineBreaks": 0,
+        "line": 7,
+        "col": 19
+    },
+    {
+        "type": "operators",
+        "value": "=",
+        "text": "=",
+        "offset": 157,
+        "lineBreaks": 0,
+        "line": 7,
+        "col": 20
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 158,
+        "lineBreaks": 0,
+        "line": 7,
+        "col": 21
+    },
+    {
+        "type": "number",
+        "value": "0",
+        "text": "0",
+        "offset": 159,
+        "lineBreaks": 0,
+        "line": 7,
+        "col": 22
+    },
+    {
+        "type": "specialChars",
+        "value": ";",
+        "text": ";",
+        "offset": 160,
+        "lineBreaks": 0,
+        "line": 7,
+        "col": 23
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 161,
+        "lineBreaks": 0,
+        "line": 7,
+        "col": 24
+    },
+    {
+        "type": "identifiers",
+        "value": "i",
+        "text": "i",
+        "offset": 162,
+        "lineBreaks": 0,
+        "line": 7,
+        "col": 25
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 163,
+        "lineBreaks": 0,
+        "line": 7,
+        "col": 26
+    },
+    {
+        "type": "operators",
+        "value": "<",
+        "text": "<",
+        "offset": 164,
+        "lineBreaks": 0,
+        "line": 7,
+        "col": 27
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 165,
+        "lineBreaks": 0,
+        "line": 7,
+        "col": 28
+    },
+    {
+        "type": "identifiers",
+        "value": "n",
+        "text": "n",
+        "offset": 166,
+        "lineBreaks": 0,
+        "line": 7,
+        "col": 29
+    },
+    {
+        "type": "specialChars",
+        "value": ";",
+        "text": ";",
+        "offset": 167,
+        "lineBreaks": 0,
+        "line": 7,
+        "col": 30
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 168,
+        "lineBreaks": 0,
+        "line": 7,
+        "col": 31
+    },
+    {
+        "type": "identifiers",
+        "value": "i",
+        "text": "i",
+        "offset": 169,
+        "lineBreaks": 0,
+        "line": 7,
+        "col": 32
+    },
+    {
+        "type": "operators",
+        "value": "++",
+        "text": "++",
+        "offset": 170,
+        "lineBreaks": 0,
+        "line": 7,
+        "col": 33
+    },
+    {
+        "type": "specialChars",
+        "value": ")",
+        "text": ")",
+        "offset": 172,
+        "lineBreaks": 0,
+        "line": 7,
+        "col": 35
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 173,
+        "lineBreaks": 0,
+        "line": 7,
+        "col": 36
+    },
+    {
+        "type": "specialChars",
+        "value": "{",
+        "text": "{",
+        "offset": 174,
+        "lineBreaks": 0,
+        "line": 7,
+        "col": 37
+    },
+    {
+        "type": "NL",
+        "value": "\n",
+        "text": "\n",
+        "offset": 175,
+        "lineBreaks": 1,
+        "line": 7,
+        "col": 38
+    },
+    {
+        "type": "WS",
+        "value": "            ",
+        "text": "            ",
+        "offset": 176,
+        "lineBreaks": 0,
+        "line": 8,
+        "col": 1
+    },
+    {
+        "type": "keyword",
+        "value": "if",
+        "text": "if",
+        "offset": 188,
+        "lineBreaks": 0,
+        "line": 8,
+        "col": 13
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 190,
+        "lineBreaks": 0,
+        "line": 8,
+        "col": 15
+    },
+    {
+        "type": "specialChars",
+        "value": "(",
+        "text": "(",
+        "offset": 191,
+        "lineBreaks": 0,
+        "line": 8,
+        "col": 16
+    },
+    {
+        "type": "identifiers",
+        "value": "x",
+        "text": "x",
+        "offset": 192,
+        "lineBreaks": 0,
+        "line": 8,
+        "col": 17
+    },
+    {
+        "type": "specialChars",
+        "value": "[",
+        "text": "[",
+        "offset": 193,
+        "lineBreaks": 0,
+        "line": 8,
+        "col": 18
+    },
+    {
+        "type": "identifiers",
+        "value": "i",
+        "text": "i",
+        "offset": 194,
+        "lineBreaks": 0,
+        "line": 8,
+        "col": 19
+    },
+    {
+        "type": "specialChars",
+        "value": "]",
+        "text": "]",
+        "offset": 195,
+        "lineBreaks": 0,
+        "line": 8,
+        "col": 20
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 196,
+        "lineBreaks": 0,
+        "line": 8,
+        "col": 21
+    },
+    {
+        "type": "operators",
+        "value": "<",
+        "text": "<",
+        "offset": 197,
+        "lineBreaks": 0,
+        "line": 8,
+        "col": 22
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 198,
+        "lineBreaks": 0,
+        "line": 8,
+        "col": 23
+    },
+    {
+        "type": "identifiers",
+        "value": "x",
+        "text": "x",
+        "offset": 199,
+        "lineBreaks": 0,
+        "line": 8,
+        "col": 24
+    },
+    {
+        "type": "specialChars",
+        "value": "[",
+        "text": "[",
+        "offset": 200,
+        "lineBreaks": 0,
+        "line": 8,
+        "col": 25
+    },
+    {
+        "type": "identifiers",
+        "value": "i",
+        "text": "i",
+        "offset": 201,
+        "lineBreaks": 0,
+        "line": 8,
+        "col": 26
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 202,
+        "lineBreaks": 0,
+        "line": 8,
+        "col": 27
+    },
+    {
+        "type": "operators",
+        "value": "+",
+        "text": "+",
+        "offset": 203,
+        "lineBreaks": 0,
+        "line": 8,
+        "col": 28
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 204,
+        "lineBreaks": 0,
+        "line": 8,
+        "col": 29
+    },
+    {
+        "type": "number",
+        "value": "1",
+        "text": "1",
+        "offset": 205,
+        "lineBreaks": 0,
+        "line": 8,
+        "col": 30
+    },
+    {
+        "type": "specialChars",
+        "value": "]",
+        "text": "]",
+        "offset": 206,
+        "lineBreaks": 0,
+        "line": 8,
+        "col": 31
+    },
+    {
+        "type": "specialChars",
+        "value": ")",
+        "text": ")",
+        "offset": 207,
+        "lineBreaks": 0,
+        "line": 8,
+        "col": 32
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 208,
+        "lineBreaks": 0,
+        "line": 8,
+        "col": 33
+    },
+    {
+        "type": "specialChars",
+        "value": "{",
+        "text": "{",
+        "offset": 209,
+        "lineBreaks": 0,
+        "line": 8,
+        "col": 34
+    },
+    {
+        "type": "NL",
+        "value": "\n",
+        "text": "\n",
+        "offset": 210,
+        "lineBreaks": 1,
+        "line": 8,
+        "col": 35
+    },
+    {
+        "type": "WS",
+        "value": "                ",
+        "text": "                ",
+        "offset": 211,
+        "lineBreaks": 0,
+        "line": 9,
+        "col": 1
+    },
+    {
+        "type": "keyword",
+        "value": "let",
+        "text": "let",
+        "offset": 227,
+        "lineBreaks": 0,
+        "line": 9,
+        "col": 17
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 230,
+        "lineBreaks": 0,
+        "line": 9,
+        "col": 20
+    },
+    {
+        "type": "identifiers",
+        "value": "temp",
+        "text": "temp",
+        "offset": 231,
+        "lineBreaks": 0,
+        "line": 9,
+        "col": 21
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 235,
+        "lineBreaks": 0,
+        "line": 9,
+        "col": 25
+    },
+    {
+        "type": "operators",
+        "value": "=",
+        "text": "=",
+        "offset": 236,
+        "lineBreaks": 0,
+        "line": 9,
+        "col": 26
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 237,
+        "lineBreaks": 0,
+        "line": 9,
+        "col": 27
+    },
+    {
+        "type": "identifiers",
+        "value": "x",
+        "text": "x",
+        "offset": 238,
+        "lineBreaks": 0,
+        "line": 9,
+        "col": 28
+    },
+    {
+        "type": "specialChars",
+        "value": "[",
+        "text": "[",
+        "offset": 239,
+        "lineBreaks": 0,
+        "line": 9,
+        "col": 29
+    },
+    {
+        "type": "identifiers",
+        "value": "i",
+        "text": "i",
+        "offset": 240,
+        "lineBreaks": 0,
+        "line": 9,
+        "col": 30
+    },
+    {
+        "type": "specialChars",
+        "value": "]",
+        "text": "]",
+        "offset": 241,
+        "lineBreaks": 0,
+        "line": 9,
+        "col": 31
+    },
+    {
+        "type": "specialChars",
+        "value": ";",
+        "text": ";",
+        "offset": 242,
+        "lineBreaks": 0,
+        "line": 9,
+        "col": 32
+    },
+    {
+        "type": "NL",
+        "value": "\n",
+        "text": "\n",
+        "offset": 243,
+        "lineBreaks": 1,
+        "line": 9,
+        "col": 33
+    },
+    {
+        "type": "WS",
+        "value": "                ",
+        "text": "                ",
+        "offset": 244,
+        "lineBreaks": 0,
+        "line": 10,
+        "col": 1
+    },
+    {
+        "type": "identifiers",
+        "value": "x",
+        "text": "x",
+        "offset": 260,
+        "lineBreaks": 0,
+        "line": 10,
+        "col": 17
+    },
+    {
+        "type": "specialChars",
+        "value": "[",
+        "text": "[",
+        "offset": 261,
+        "lineBreaks": 0,
+        "line": 10,
+        "col": 18
+    },
+    {
+        "type": "identifiers",
+        "value": "i",
+        "text": "i",
+        "offset": 262,
+        "lineBreaks": 0,
+        "line": 10,
+        "col": 19
+    },
+    {
+        "type": "specialChars",
+        "value": "]",
+        "text": "]",
+        "offset": 263,
+        "lineBreaks": 0,
+        "line": 10,
+        "col": 20
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 264,
+        "lineBreaks": 0,
+        "line": 10,
+        "col": 21
+    },
+    {
+        "type": "operators",
+        "value": "=",
+        "text": "=",
+        "offset": 265,
+        "lineBreaks": 0,
+        "line": 10,
+        "col": 22
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 266,
+        "lineBreaks": 0,
+        "line": 10,
+        "col": 23
+    },
+    {
+        "type": "identifiers",
+        "value": "x",
+        "text": "x",
+        "offset": 267,
+        "lineBreaks": 0,
+        "line": 10,
+        "col": 24
+    },
+    {
+        "type": "specialChars",
+        "value": "[",
+        "text": "[",
+        "offset": 268,
+        "lineBreaks": 0,
+        "line": 10,
+        "col": 25
+    },
+    {
+        "type": "identifiers",
+        "value": "i",
+        "text": "i",
+        "offset": 269,
+        "lineBreaks": 0,
+        "line": 10,
+        "col": 26
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 270,
+        "lineBreaks": 0,
+        "line": 10,
+        "col": 27
+    },
+    {
+        "type": "operators",
+        "value": "+",
+        "text": "+",
+        "offset": 271,
+        "lineBreaks": 0,
+        "line": 10,
+        "col": 28
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 272,
+        "lineBreaks": 0,
+        "line": 10,
+        "col": 29
+    },
+    {
+        "type": "number",
+        "value": "1",
+        "text": "1",
+        "offset": 273,
+        "lineBreaks": 0,
+        "line": 10,
+        "col": 30
+    },
+    {
+        "type": "specialChars",
+        "value": "]",
+        "text": "]",
+        "offset": 274,
+        "lineBreaks": 0,
+        "line": 10,
+        "col": 31
+    },
+    {
+        "type": "specialChars",
+        "value": ";",
+        "text": ";",
+        "offset": 275,
+        "lineBreaks": 0,
+        "line": 10,
+        "col": 32
+    },
+    {
+        "type": "NL",
+        "value": "\n",
+        "text": "\n",
+        "offset": 276,
+        "lineBreaks": 1,
+        "line": 10,
+        "col": 33
+    },
+    {
+        "type": "WS",
+        "value": "                ",
+        "text": "                ",
+        "offset": 277,
+        "lineBreaks": 0,
+        "line": 11,
+        "col": 1
+    },
+    {
+        "type": "identifiers",
+        "value": "x",
+        "text": "x",
+        "offset": 293,
+        "lineBreaks": 0,
+        "line": 11,
+        "col": 17
+    },
+    {
+        "type": "specialChars",
+        "value": "[",
+        "text": "[",
+        "offset": 294,
+        "lineBreaks": 0,
+        "line": 11,
+        "col": 18
+    },
+    {
+        "type": "identifiers",
+        "value": "i",
+        "text": "i",
+        "offset": 295,
+        "lineBreaks": 0,
+        "line": 11,
+        "col": 19
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 296,
+        "lineBreaks": 0,
+        "line": 11,
+        "col": 20
+    },
+    {
+        "type": "operators",
+        "value": "++",
+        "text": "++",
+        "offset": 297,
+        "lineBreaks": 0,
+        "line": 11,
+        "col": 21
+    },
+    {
+        "type": "operators",
+        "value": "+",
+        "text": "+",
+        "offset": 299,
+        "lineBreaks": 0,
+        "line": 11,
+        "col": 23
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 300,
+        "lineBreaks": 0,
+        "line": 11,
+        "col": 24
+    },
+    {
+        "type": "number",
+        "value": "1",
+        "text": "1",
+        "offset": 301,
+        "lineBreaks": 0,
+        "line": 11,
+        "col": 25
+    },
+    {
+        "type": "specialChars",
+        "value": "]",
+        "text": "]",
+        "offset": 302,
+        "lineBreaks": 0,
+        "line": 11,
+        "col": 26
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 303,
+        "lineBreaks": 0,
+        "line": 11,
+        "col": 27
+    },
+    {
+        "type": "operators",
+        "value": "=",
+        "text": "=",
+        "offset": 304,
+        "lineBreaks": 0,
+        "line": 11,
+        "col": 28
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 305,
+        "lineBreaks": 0,
+        "line": 11,
+        "col": 29
+    },
+    {
+        "type": "identifiers",
+        "value": "temp",
+        "text": "temp",
+        "offset": 306,
+        "lineBreaks": 0,
+        "line": 11,
+        "col": 30
+    },
+    {
+        "type": "specialChars",
+        "value": ";",
+        "text": ";",
+        "offset": 310,
+        "lineBreaks": 0,
+        "line": 11,
+        "col": 34
+    },
+    {
+        "type": "NL",
+        "value": "\n",
+        "text": "\n",
+        "offset": 311,
+        "lineBreaks": 1,
+        "line": 11,
+        "col": 35
+    },
+    {
+        "type": "WS",
+        "value": "                ",
+        "text": "                ",
+        "offset": 312,
+        "lineBreaks": 0,
+        "line": 12,
+        "col": 1
+    },
+    {
+        "type": "identifiers",
+        "value": "swap",
+        "text": "swap",
+        "offset": 328,
+        "lineBreaks": 0,
+        "line": 12,
+        "col": 17
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 332,
+        "lineBreaks": 0,
+        "line": 12,
+        "col": 21
+    },
+    {
+        "type": "operators",
+        "value": "=",
+        "text": "=",
+        "offset": 333,
+        "lineBreaks": 0,
+        "line": 12,
+        "col": 22
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 334,
+        "lineBreaks": 0,
+        "line": 12,
+        "col": 23
+    },
+    {
+        "type": "keyword",
+        "value": "true",
+        "text": "true",
+        "offset": 335,
+        "lineBreaks": 0,
+        "line": 12,
+        "col": 24
+    },
+    {
+        "type": "specialChars",
+        "value": ";",
+        "text": ";",
+        "offset": 339,
+        "lineBreaks": 0,
+        "line": 12,
+        "col": 28
+    },
+    {
+        "type": "NL",
+        "value": "\n",
+        "text": "\n",
+        "offset": 340,
+        "lineBreaks": 1,
+        "line": 12,
+        "col": 29
+    },
+    {
+        "type": "WS",
+        "value": "            ",
+        "text": "            ",
+        "offset": 341,
+        "lineBreaks": 0,
+        "line": 13,
+        "col": 1
+    },
+    {
+        "type": "specialChars",
+        "value": "}",
+        "text": "}",
+        "offset": 353,
+        "lineBreaks": 0,
+        "line": 13,
+        "col": 13
+    },
+    {
+        "type": "NL",
+        "value": "\n",
+        "text": "\n",
+        "offset": 354,
+        "lineBreaks": 1,
+        "line": 13,
+        "col": 14
+    },
+    {
+        "type": "WS",
+        "value": "        ",
+        "text": "        ",
+        "offset": 355,
+        "lineBreaks": 0,
+        "line": 14,
+        "col": 1
+    },
+    {
+        "type": "specialChars",
+        "value": "}",
+        "text": "}",
+        "offset": 363,
+        "lineBreaks": 0,
+        "line": 14,
+        "col": 9
+    },
+    {
+        "type": "NL",
+        "value": "\n",
+        "text": "\n",
+        "offset": 364,
+        "lineBreaks": 1,
+        "line": 14,
+        "col": 10
+    },
+    {
+        "type": "WS",
+        "value": "        ",
+        "text": "        ",
+        "offset": 365,
+        "lineBreaks": 0,
+        "line": 15,
+        "col": 1
+    },
+    {
+        "type": "identifiers",
+        "value": "n",
+        "text": "n",
+        "offset": 373,
+        "lineBreaks": 0,
+        "line": 15,
+        "col": 9
+    },
+    {
+        "type": "operators",
+        "value": "--",
+        "text": "--",
+        "offset": 374,
+        "lineBreaks": 0,
+        "line": 15,
+        "col": 10
+    },
+    {
+        "type": "specialChars",
+        "value": ";",
+        "text": ";",
+        "offset": 376,
+        "lineBreaks": 0,
+        "line": 15,
+        "col": 12
+    },
+    {
+        "type": "NL",
+        "value": "\n",
+        "text": "\n",
+        "offset": 377,
+        "lineBreaks": 1,
+        "line": 15,
+        "col": 13
+    },
+    {
+        "type": "WS",
+        "value": "    ",
+        "text": "    ",
+        "offset": 378,
+        "lineBreaks": 0,
+        "line": 16,
+        "col": 1
+    },
+    {
+        "type": "specialChars",
+        "value": "}",
+        "text": "}",
+        "offset": 382,
+        "lineBreaks": 0,
+        "line": 16,
+        "col": 5
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 383,
+        "lineBreaks": 0,
+        "line": 16,
+        "col": 6
+    },
+    {
+        "type": "keyword",
+        "value": "while",
+        "text": "while",
+        "offset": 384,
+        "lineBreaks": 0,
+        "line": 16,
+        "col": 7
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 389,
+        "lineBreaks": 0,
+        "line": 16,
+        "col": 12
+    },
+    {
+        "type": "specialChars",
+        "value": "(",
+        "text": "(",
+        "offset": 390,
+        "lineBreaks": 0,
+        "line": 16,
+        "col": 13
+    },
+    {
+        "type": "identifiers",
+        "value": "swap",
+        "text": "swap",
+        "offset": 391,
+        "lineBreaks": 0,
+        "line": 16,
+        "col": 14
+    },
+    {
+        "type": "specialChars",
+        "value": ")",
+        "text": ")",
+        "offset": 395,
+        "lineBreaks": 0,
+        "line": 16,
+        "col": 18
+    },
+    {
+        "type": "specialChars",
+        "value": ";",
+        "text": ";",
+        "offset": 396,
+        "lineBreaks": 0,
+        "line": 16,
+        "col": 19
+    },
+    {
+        "type": "NL",
+        "value": "\n",
+        "text": "\n",
+        "offset": 397,
+        "lineBreaks": 1,
+        "line": 16,
+        "col": 20
+    },
+    {
+        "type": "WS",
+        "value": "    ",
+        "text": "    ",
+        "offset": 398,
+        "lineBreaks": 0,
+        "line": 17,
+        "col": 1
+    },
+    {
+        "type": "keyword",
+        "value": "return",
+        "text": "return",
+        "offset": 402,
+        "lineBreaks": 0,
+        "line": 17,
+        "col": 5
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 408,
+        "lineBreaks": 0,
+        "line": 17,
+        "col": 11
+    },
+    {
+        "type": "identifiers",
+        "value": "x",
+        "text": "x",
+        "offset": 409,
+        "lineBreaks": 0,
+        "line": 17,
+        "col": 12
+    },
+    {
+        "type": "specialChars",
+        "value": ";",
+        "text": ";",
+        "offset": 410,
+        "lineBreaks": 0,
+        "line": 17,
+        "col": 13
+    },
+    {
+        "type": "NL",
+        "value": "\n",
+        "text": "\n",
+        "offset": 411,
+        "lineBreaks": 1,
+        "line": 17,
+        "col": 14
+    },
+    {
+        "type": "specialChars",
+        "value": "}",
+        "text": "}",
+        "offset": 412,
+        "lineBreaks": 0,
+        "line": 18,
+        "col": 1
+    },
+    {
+        "type": "NL",
+        "value": "\n",
+        "text": "\n",
+        "offset": 413,
+        "lineBreaks": 1,
+        "line": 18,
+        "col": 2
+    },
+    {
+        "type": "NL",
+        "value": "\n",
+        "text": "\n",
+        "offset": 414,
+        "lineBreaks": 1,
+        "line": 19,
+        "col": 1
+    },
+    {
+        "type": "keyword",
+        "value": "console",
+        "text": "console",
+        "offset": 415,
+        "lineBreaks": 0,
+        "line": 20,
+        "col": 1
+    },
+    {
+        "type": "specialChars",
+        "value": ".",
+        "text": ".",
+        "offset": 422,
+        "lineBreaks": 0,
+        "line": 20,
+        "col": 8
+    },
+    {
+        "type": "keyword",
+        "value": "log",
+        "text": "log",
+        "offset": 423,
+        "lineBreaks": 0,
+        "line": 20,
+        "col": 9
+    },
+    {
+        "type": "specialChars",
+        "value": "(",
+        "text": "(",
+        "offset": 426,
+        "lineBreaks": 0,
+        "line": 20,
+        "col": 12
+    },
+    {
+        "type": "identifiers",
+        "value": "bubbleSort",
+        "text": "bubbleSort",
+        "offset": 427,
+        "lineBreaks": 0,
+        "line": 20,
+        "col": 13
+    },
+    {
+        "type": "specialChars",
+        "value": "(",
+        "text": "(",
+        "offset": 437,
+        "lineBreaks": 0,
+        "line": 20,
+        "col": 23
+    },
+    {
+        "type": "specialChars",
+        "value": "[",
+        "text": "[",
+        "offset": 438,
+        "lineBreaks": 0,
+        "line": 20,
+        "col": 24
+    },
+    {
+        "type": "number",
+        "value": "3223",
+        "text": "3223",
+        "offset": 439,
+        "lineBreaks": 0,
+        "line": 20,
+        "col": 25
+    },
+    {
+        "type": "specialChars",
+        "value": ",",
+        "text": ",",
+        "offset": 443,
+        "lineBreaks": 0,
+        "line": 20,
+        "col": 29
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 444,
+        "lineBreaks": 0,
+        "line": 20,
+        "col": 30
+    },
+    {
+        "type": "number",
+        "value": "455",
+        "text": "455",
+        "offset": 445,
+        "lineBreaks": 0,
+        "line": 20,
+        "col": 31
+    },
+    {
+        "type": "specialChars",
+        "value": ",",
+        "text": ",",
+        "offset": 448,
+        "lineBreaks": 0,
+        "line": 20,
+        "col": 34
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 449,
+        "lineBreaks": 0,
+        "line": 20,
+        "col": 35
+    },
+    {
+        "type": "number",
+        "value": "23",
+        "text": "23",
+        "offset": 450,
+        "lineBreaks": 0,
+        "line": 20,
+        "col": 36
+    },
+    {
+        "type": "specialChars",
+        "value": ",",
+        "text": ",",
+        "offset": 452,
+        "lineBreaks": 0,
+        "line": 20,
+        "col": 38
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 453,
+        "lineBreaks": 0,
+        "line": 20,
+        "col": 39
+    },
+    {
+        "type": "number",
+        "value": "234",
+        "text": "234",
+        "offset": 454,
+        "lineBreaks": 0,
+        "line": 20,
+        "col": 40
+    },
+    {
+        "type": "specialChars",
+        "value": ",",
+        "text": ",",
+        "offset": 457,
+        "lineBreaks": 0,
+        "line": 20,
+        "col": 43
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 458,
+        "lineBreaks": 0,
+        "line": 20,
+        "col": 44
+    },
+    {
+        "type": "number",
+        "value": "213",
+        "text": "213",
+        "offset": 459,
+        "lineBreaks": 0,
+        "line": 20,
+        "col": 45
+    },
+    {
+        "type": "specialChars",
+        "value": "]",
+        "text": "]",
+        "offset": 462,
+        "lineBreaks": 0,
+        "line": 20,
+        "col": 48
+    },
+    {
+        "type": "specialChars",
+        "value": ")",
+        "text": ")",
+        "offset": 463,
+        "lineBreaks": 0,
+        "line": 20,
+        "col": 49
+    },
+    {
+        "type": "specialChars",
+        "value": ")",
+        "text": ")",
+        "offset": 464,
+        "lineBreaks": 0,
+        "line": 20,
+        "col": 50
+    },
+    {
+        "type": "specialChars",
+        "value": ";",
+        "text": ";",
+        "offset": 465,
+        "lineBreaks": 0,
+        "line": 20,
+        "col": 51
+    },
+    {
+        "type": "WS",
+        "value": " ",
+        "text": " ",
+        "offset": 466,
+        "lineBreaks": 0,
+        "line": 20,
+        "col": 52
+    },
+    {
+        "type": "NL",
+        "value": "\n",
+        "text": "\n",
+        "offset": 467,
+        "lineBreaks": 1,
+        "line": 20,
+        "col": 53
+    }
+]

@@ -1,4 +1,4 @@
-function bubble_Sort(inputArray) {
+function bubbleSort(inputArray) {
     let swap;
     let n = inputArray.length - 1;
     let x = inputArray;
@@ -17,4 +17,4 @@ function bubble_Sort(inputArray) {
     return x;
 }
 
-console.log(bubble_Sort([3223, 455, 23, 234, 213])); 
+console.log(bubbleSort([3223, 455, 23, 234, 213])); 
