@@ -16,5 +16,4 @@ function bubbleSort(inputArray) {
     } while (swap);
     return x;
 }
-
 console.log(bubbleSort([3223, 455, 23, 234, 213])); 

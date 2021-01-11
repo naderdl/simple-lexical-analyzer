@@ -46,7 +46,7 @@ let numerals = /^(\d+)$/g;
 
 let specialChars = /[$()_~`{}\[\]:;?,]/g;
 
-fs.writeFileSync('./tokes.json',fileTokens.toString());
+fs.writeFileSync('./tokens.json',fileTokens.toString());
 
 fileTokens.forEach((token) => {
     if (keywords.includes(token)) {
