@@ -61,7 +61,7 @@ fs.writeFileSync('./output.json',JSON.stringify(output, undefined, 4))
 console.log('symantec checking ...')
 
 for (let [index, token] of output.entries()) {
-    if ((token.type == 'keyword') && (token.value == 'let' | token.value == 'var' | token.value == 'const')) {
+    if ((token.type == 'keyword') && (token.value == 'let' || token.value == 'var' || token.value == 'const')) {
         let WS_IsAvailable = output[index + 1].type == 'WS'
         let IdentifierIsAvailable = output[index + 2].type == 'identifiers'
         if (!WS_IsAvailable || !IdentifierIsAvailable) {
@@ -71,8 +71,8 @@ for (let [index, token] of output.entries()) {
 
     if ((token.type == 'operators') && (token.value == '+' | token.value == '-')) {
         let WS_IsAvailable = output[index - 1].type == 'WS' && output[index + 1].type == 'WS';
-        let isLeftOperandValid = output[index - 2].type == 'number' || output[index - 2].type == 'identifiers' || output[index - 2].type == 'keyword';
-        let isRightOperandValid = output[index + 2].type == 'number' || output[index + 2].type == 'identifiers' || output[index + 2].type == 'keyword';
+        let isLeftOperandValid = output[index - 2].type == 'number' || output[index - 2].type == 'identifiers' || output[index - 2].value == 'length';
+        let isRightOperandValid = output[index + 2].type == 'number' || output[index + 2].type == 'identifiers' || output[index + 2].value == 'length';
         if (!WS_IsAvailable || !isLeftOperandValid || !isRightOperandValid) {
             console.error('this is sematic error for operators', token, output[index + 2].type, output[index - 2].type, `isLeftOperandValid: ${isLeftOperandValid}`, `isRightOperandValid: ${isRightOperandValid}`);
         }
